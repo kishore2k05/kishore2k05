@@ -24,7 +24,7 @@
 
 ### 🛡️ [Hybrid Voice Phishing (Vishing) Detection System](https://github.com/kishore2k05/Hybrid-Voice-Phishing-Detection-System)
 > Dual-layer multilingual vishing detection combining BERT + Random Forest with a Rust-based text pipeline.  
-> Trained on 1,584 samples across English, Tanglish, Hinglish & Broken-English — 95%+ accuracy.
+> Trained on ~2,600 samples across English, Tanglish, Hinglish & Broken-English — 95%+ accuracy.
 
 ### 📊 [Sorting Visualizer](https://github.com/kishore2k05/SortingVisualizer)
 > Interactive DSA visualizer built with HTML, CSS & JavaScript. Supports Merge, Quick, and Bubble Sort with real-time animation.
