@@ -1,51 +1,21 @@
-# Hi, I'm Kishore Gowthaman 👋
+# 💫 About Me:
+🎓 Final-year CS student at SRM Chennai<br>⚙️ I like building things that actually solve problems<br>🌱 Learning ML, system design & low-level programming<br>📬 Reach me at : kishoregowthaman11@gmail.com
 
-🎓 Final-year CS student at SRM Chennai  
-⚙️ I like building things that actually solve problems  
-🌱 Learning ML, system design & low-level programming  
-📬 Reach me at : kishoregowthaman11@gmail.com  
 
----
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/kishore_23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithyagowthaman1985@gmail.com) 
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kishore2k05&theme=shades-of-purple&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kishore2k05&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kishore2k05&icon=1&color=7)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🛡️ [Hybrid Voice Phishing (Vishing) Detection System](https://github.com/kishore2k05/Hybrid-Voice-Phishing-Detection-System)
-> Dual-layer multilingual vishing detection combining BERT + Random Forest with a Rust-based text pipeline.  
-> Trained on ~2,600 samples across English, Tanglish, Hinglish & Broken-English — 95%+ accuracy.
-
-### 📊 [Sorting Visualizer](https://github.com/kishore2k05/SortingVisualizer)
-> Interactive DSA visualizer built with HTML, CSS & JavaScript. Supports Merge, Quick, and Bubble Sort with real-time animation.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore2k05&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kishore2k05&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore2k05&theme=tokyonight" width="98%"/>
-</p>
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-gowthaman/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/4cnFzLQc1r/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoregowthaman11@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
