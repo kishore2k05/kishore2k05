@@ -3,7 +3,7 @@
 🎓 Final-year CS student at SRM Chennai  
 ⚙️ I like building things that actually solve problems  
 🌱 Learning ML, system design & low-level programming  
-📬 Reach me at : 11kishoregowthaman11@gmail.com  
+📬 Reach me at : kishoregowthaman11@gmail.com  
 
 ---
 
