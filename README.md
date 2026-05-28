@@ -2,7 +2,7 @@
 <h3 align="center">Final-year CS student • ML & full-stack developer • Open to remote work & freelance</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishore2k05&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kishore2k05&label=Profile%20views&color=ff6b35&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="stats" /><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishore2k05&hide_border=true&include_all_commits=true&count_private=true&bg_color=2b1810&title_color=ff6b35&icon_color=ff8c42&text_color=ffffff&ring_color=ff6b35" alt="stats" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishore2k05&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=2b1810&title_color=ff6b35&text_color=ffffff" alt="top langs" />
 </p>
 
 ---
@@ -66,13 +66,15 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2k05&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2k05&bg_color=2b1810&color=ff6b35&line=ff8c42&point=ffffff&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
+<!-- Trophies temporarily disabled — re-enable once the Vercel host is back up
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishore2k05&theme=shades-of-purple&no-frame=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishore2k05&theme=onedark&no-frame=true&margin-w=4" alt="trophies" />
 </p>
+-->
