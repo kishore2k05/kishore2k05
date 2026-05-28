@@ -57,9 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=kishore2k05&theme=shades-of-purple&hide_border=true" alt="streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="stats" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </p>
 
 ---
