@@ -1,21 +1,69 @@
-# 💫 About Me:
-🎓 Final-year CS student at SRM Chennai<br>⚙️ I like building things that actually solve problems<br>🌱 Learning ML, system design & low-level programming<br>📬 Reach me at : kishoregowthaman11@gmail.com
+### Hi, I'm Kishore 👋
 
+Final-year CS student who likes building things that work — not just demos.
+Most of my time goes to **machine learning** and **full-stack systems**, with a
+soft spot for low-level programming and understanding how things work under the hood.
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/kishore_23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithyagowthaman1985@gmail.com) 
+I'm currently **open to remote roles and freelance work.** If you've got a problem
+worth solving, I'd like to hear about it.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kishore2k05&theme=shades-of-purple&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishore2k05&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4)
+📍 Chennai, India · 🌐 Working remotely · 📬 kishoregowthaman11@gmail.com
 
 ---
-[![](https://komarev.com/ghpvc/?username=kishore2k05&icon=1&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠 What I work with
+
+**Languages:** Python · Java · Rust · SQL · Bash
+**ML / Data:** scikit-learn · Pandas · NLP · OCR
+**Web & Infra:** JavaScript · PHP · Docker · MySQL · SQLite
+
+I reach for the right tool for the job rather than forcing a favorite — though
+Rust is winning me over lately.
+
+---
+
+### 🚀 Projects I'm proud of
+
+**[Hybrid Voice Phishing Detection System](https://github.com/kishore2k05/Hybrid-Voice-Phishing-Detection-System)**
+A multilingual defense system against vishing (voice phishing) attacks. It pairs
+**OCR-based computer vision** for spotting technical manipulation with **NLP** for
+reading intent in conversations — a dual-layer approach instead of relying on one
+signal. My favorite kind of problem: messy, real-world, and high-stakes.
+`Python · NLP · OCR · JavaScript`
+
+**[Sorting Visualizer](https://github.com/kishore2k05/SortingVisualizer)**
+An interactive tool that shows how sorting algorithms and DSA concepts actually
+behave step by step — built because watching an algorithm run beats reading about it.
+`Algorithms · Visualization`
+
+**[Multi-Container Blog with Database](https://github.com/kishore2k05/Multi-container-Blog-with-Database)**
+A hands-on Docker project running WordPress and MySQL as separate, networked
+containers — my way of getting comfortable with real multi-service architecture.
+`Docker · PHP · MySQL`
+
+**[Java Crash Course](https://github.com/kishore2k05/Java-crash-course)**
+A structured, zero-to-productive Java resource I built out as I solidified my own
+fundamentals. Useful if you're starting out.
+`Java`
+
+---
+
+### 🌱 Currently working on
+
+- Going deeper on **ML** — model design, evaluation, and getting things production-ready
+- **System design & architecture** — learning to think beyond the code to the whole system
+- **Low-level programming** in Rust and C, because understanding the bottom layer makes everything above it clearer
+
+---
+
+### 📫 Let's talk
+
+I'm actively looking for **remote opportunities and freelance projects.**
+The fastest way to reach me:
+
+- 📧 **kishoregowthaman11@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/kishore-gowthaman/)
+- 🧩 [LeetCode](https://leetcode.com/u/nithyagowthaman1985/)
+
+Whether it's a job, a freelance gig, or just a good technical conversation —
+my inbox is open.
