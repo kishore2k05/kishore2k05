@@ -1,69 +1,79 @@
-### Hi, I'm Kishore 👋
+<h1 align="center">Hi, I'm Kishore 👋</h1>
+<h3 align="center">Final-year CS student • ML & full-stack developer • Open to remote work & freelance</h3>
 
-Final-year CS student who likes building things that work — not just demos.
-Most of my time goes to **machine learning** and **full-stack systems**, with a
-soft spot for low-level programming and understanding how things work under the hood.
-
-I'm currently **open to remote roles and freelance work.** If you've got a problem
-worth solving, I'd like to hear about it.
-
-📍 Chennai, India · 🌐 Working remotely · 📬 kishoregowthaman11@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishore2k05&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🛠 What I work with
+### 💫 About Me
 
-**Languages:** Python · Java · Rust · SQL · Bash
-**ML / Data:** scikit-learn · Pandas · NLP · OCR
-**Web & Infra:** JavaScript · PHP · Docker · MySQL · SQLite
-
-I reach for the right tool for the job rather than forcing a favorite — though
-Rust is winning me over lately.
-
----
-
-### 🚀 Projects I'm proud of
-
-**[Hybrid Voice Phishing Detection System](https://github.com/kishore2k05/Hybrid-Voice-Phishing-Detection-System)**
-A multilingual defense system against vishing (voice phishing) attacks. It pairs
-**OCR-based computer vision** for spotting technical manipulation with **NLP** for
-reading intent in conversations — a dual-layer approach instead of relying on one
-signal. My favorite kind of problem: messy, real-world, and high-stakes.
-`Python · NLP · OCR · JavaScript`
-
-**[Sorting Visualizer](https://github.com/kishore2k05/SortingVisualizer)**
-An interactive tool that shows how sorting algorithms and DSA concepts actually
-behave step by step — built because watching an algorithm run beats reading about it.
-`Algorithms · Visualization`
-
-**[Multi-Container Blog with Database](https://github.com/kishore2k05/Multi-container-Blog-with-Database)**
-A hands-on Docker project running WordPress and MySQL as separate, networked
-containers — my way of getting comfortable with real multi-service architecture.
-`Docker · PHP · MySQL`
-
-**[Java Crash Course](https://github.com/kishore2k05/Java-crash-course)**
-A structured, zero-to-productive Java resource I built out as I solidified my own
-fundamentals. Useful if you're starting out.
-`Java`
+- 🎓 Final-year CS student building ML systems and full-stack tools
+- 🔭 I like solving messy, real-world problems — not just demos
+- 🌱 Going deeper on ML, system design, and low-level programming in Rust
+- 💼 **Open to remote roles and freelance projects**
+- 📬 Reach me at **kishoregowthaman11@gmail.com**
 
 ---
 
-### 🌱 Currently working on
+### 🌐 Connect with me
 
-- Going deeper on **ML** — model design, evaluation, and getting things production-ready
-- **System design & architecture** — learning to think beyond the code to the whole system
-- **Low-level programming** in Rust and C, because understanding the bottom layer makes everything above it clearer
+<p align="left">
+  <a href="https://www.linkedin.com/in/kishore-gowthaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/nithyagowthaman1985/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://reddit.com/user/u/kishore_23"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="mailto:kishoregowthaman11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-### 📫 Let's talk
+### 💻 Tech Stack
 
-I'm actively looking for **remote opportunities and freelance projects.**
-The fastest way to reach me:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 📧 **kishoregowthaman11@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/kishore-gowthaman/)
-- 🧩 [LeetCode](https://leetcode.com/u/nithyagowthaman1985/)
+---
 
-Whether it's a job, a freelance gig, or just a good technical conversation —
-my inbox is open.
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Hybrid Voice Phishing Detection System](https://github.com/kishore2k05/Hybrid-Voice-Phishing-Detection-System) | Multilingual anti-vishing defense combining OCR-based computer vision with NLP for intent detection | `Python` `NLP` `OCR` `JavaScript` |
+| [Sorting Visualizer](https://github.com/kishore2k05/SortingVisualizer) | Interactive web app showing how sorting algorithms & DSA concepts work step by step | `JavaScript` `Algorithms` |
+| [Multi-Container Blog with Database](https://github.com/kishore2k05/Multi-container-Blog-with-Database) | Dockerized multi-container setup running WordPress + MySQL as separate services | `Docker` `PHP` `MySQL` |
+| [Java Crash Course](https://github.com/kishore2k05/Java-crash-course) | Structured zero-to-productive Java fundamentals resource | `Java` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true" alt="stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=kishore2k05&theme=shades-of-purple&hide_border=true" alt="streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2k05&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2k05&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishore2k05&theme=shades-of-purple&no-frame=true&margin-w=4" alt="trophies" />
+</p>
