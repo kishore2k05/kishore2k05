@@ -13,7 +13,7 @@
 - 🔭 I like solving messy, real-world problems — not just demos
 - 🌱 Going deeper on ML, system design, and low-level programming in Rust
 - 💼 **Open to remote roles and freelance projects**
-- 📬 Reach me at **kishoregowthaman11@gmail.com**
+- 📬 Reach me at **nithyagowthaman1985@gmail.com**
 
 ---
 
