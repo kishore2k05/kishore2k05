@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 - 🎓 Final-year CS student building ML systems and full-stack tools
-- 🔭 I like solving messy, real-world problems — not just demos
+- 🔭 I like solving messy, real-world problems
 - 🌱 Going deeper on ML, system design, and low-level programming in Rust
 - 💼 **Open to remote roles and freelance projects**
 - 📬 Reach me at **nithyagowthaman1985@gmail.com**
